@@ -1,0 +1,12 @@
+{
+  "name": "phywiki",
+  "version": "0.1.0",
+  "description": "高校物理Wiki（進捗管理付き）",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
